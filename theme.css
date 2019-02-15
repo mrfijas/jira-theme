@@ -1,0 +1,12 @@
+/* ==UserStyle==
+@name           Jira bettah theme - 15/02/2019, 15:38:58
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    A new userstyle
+@author         Marek Fijas
+==/UserStyle== */
+@-moz-document domain("clearcodehq.atlassian.net") {
+    .jira-dialog {
+        transform: translate(50%, 0);
+    }
+}
